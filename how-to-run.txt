@@ -1,0 +1,3 @@
+Useful url - https://www.codementor.io/dushyantbgs/building-a-desktop-notification-tool-using-python-bcpya9cwh
+
+$ python currency-notifier.py --exchange-url http://www.floatrates.com/daily/inr.json --proxy-host=10.1.1.2 --proxy-port=8080 --proxy-user=xxx --proxy-password=xxxx
